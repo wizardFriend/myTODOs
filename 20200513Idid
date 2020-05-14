@@ -1,0 +1,24 @@
+git add <fileName>
+git commit
+
+git status
+
+git config --list
+git config --local --list
+git config --global --list
+
+// local 이름 추가하기
+git config user.name "KKH"
+
+git --help
+
+vim README.md
+# This is a repo...
+[rhrhkbgus@naver.com](https://www.apple.com)
+...
+
+:wq  -> vim 저장 후 종료할 때 사용.
+
+
+
+
